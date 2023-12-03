@@ -3,6 +3,7 @@
 I like to code!
 
 👨‍🎓 Bachelor's degree in Computer Science with a minor in Mathematics
+
 👨‍🎓 Masters degree in Computer Science, with a research focus on applications of decentralized computation networks like Ethereum
 ## Projects:
 ### Machine Learning
