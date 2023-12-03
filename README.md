@@ -30,7 +30,7 @@ I like to code!
 
 ### MISC
  - [Huffman Encoding](https://github.com/BrewDogDev/Huffman-Encoding-Algorithm)
- - [Binary Search Tree]([https://github.com/BrewDogDev/CPSC270ASG2B](https://github.com/BrewDogDev/Binary-Search-Tree))
+ - [Binary Search Tree](https://github.com/BrewDogDev/Binary-Search-Tree)
  - [Instagram Comment Bot](https://github.com/BrewDogDev/instagramCommentBot)
  - [Minecraft Mod Research](https://github.com/BrewDogDev/minecraftResearch)
 
